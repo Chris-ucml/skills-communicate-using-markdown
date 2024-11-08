@@ -7,3 +7,8 @@
 Test font
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` Python
+def hello_word():
+  print('hello world')
+```
