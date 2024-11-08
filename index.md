@@ -5,3 +5,5 @@
 ##### 5
 ###### 6
 Test font
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
